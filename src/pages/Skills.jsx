@@ -2,7 +2,9 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 function Skills() {
-  const skills = ['React', 'JavaScript', 'CSS', 'Node.js', 'AI Integration'];
+  const skills = ['React', 'JavaScript', 'CSS', 'Node.js','Express JS', 'Git','Netlify', 'AI Integration and Generative AI', 'Jest and Enzyme testing frameworks',
+    'Jira', 'Agile Projects', 'Mentoring' 
+  ];
 
   return (
     <motion.div
